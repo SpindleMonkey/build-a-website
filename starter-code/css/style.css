@@ -1,0 +1,76 @@
+
+body {
+   background: #fff;
+   color: #000;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 18px;
+}
+
+h1 {
+   font-family: 'Glegoo', serif;
+   font-size: 52px;
+   color: #A83900;
+}
+
+h2 {
+   font-family: 'Glegoo', serif;
+   font-size: 28px;
+   margin: 10px 0;
+}
+
+h3 {
+   font-family: 'Glegoo', serif;
+   font-size: 18px;
+   margin: 10px 0;
+   padding-top: 20px;
+   padding-left: 40px;
+}
+
+p {
+   padding-top: 20px;
+   padding-left: 40px;
+}
+
+a {
+   text-decoration: none;
+   color: #fff;
+   margin: 40px;
+}
+
+a:visited {
+   color: #ccc;
+}
+
+img {
+   padding-left: 40px;
+}
+
+ul {
+   padding-top: 20px;
+   padding-left: 40px;
+}
+
+
+
+header {
+   padding: 20px;
+}
+
+nav {
+   text-align: left;
+   font-family: 'Glegoo', serif;
+   background-color: #A83900;
+   padding: 20px;
+}
+
+section {
+   padding: 20px;
+}
+
+
+
+.box { 
+   position: relative; 
+   width: 586px; 
+}
+
